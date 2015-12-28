@@ -5,9 +5,9 @@
 class Pusheen < Formula
   desc ""
   homepage ""
-  url "https://github.com/tbelaire/pusheen/archive/v0.1.tar.gz"
-  version "0.1"
-  sha256 "f29480b2dbb4eaa7bcb95c5698d44a242f4461965af50dcc98884404c286dbc7"
+  url "https://github.com/tbelaire/pusheen/archive/v0.2.tar.gz"
+  version "0.2"
+  sha256 "a96b2ee580bf8632e30abde86a20177a9b39fbe0a3113e6e5838ce04a5bae181"
 
 
   def install
